@@ -103,7 +103,7 @@ Hierarchical filters and navigation
 Time Intelligence: Built a Date Table to enable YTD/QTD calculations and support dynamic analysis
 
 🖼️ Screenshots / Demos
-(https://github.com/Gouravsirsat45/Amazon-sales-analysis/blob/main/Amazon%20sales%20dashboard.png)
+![Dashboard Preview].(https://github.com/Gouravsirsat45/Amazon-sales-analysis/blob/main/Amazon%20sales%20dashboard.png)
 
 Alt text examples:
 
